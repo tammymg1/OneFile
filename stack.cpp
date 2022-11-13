@@ -63,6 +63,6 @@ T Stack<T>::peek()
 template <class T>
 bool Stack<T>::isEmpty() const
 {
-     return myStack.empty(); //new
+     return myStack.empty(); //new addition
 
 }
